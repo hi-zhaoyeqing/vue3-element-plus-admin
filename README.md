@@ -6,21 +6,17 @@
 <img src="https://img.shields.io/github/release/qdzhaoxiaodao/vue3-element-plus-admin.svg" alt="GitHub release">
 <img src="https://img.shields.io/badge/%24-donate-ff69b4.svg" alt="donate">
 
-基于 Vue3 + Element Plus 的后台管理系统解决方案。
-
-> Vue2 版本请看 [tag-V4.2.0](https://github.com/qdzhaoxiaodao/vue3-element-plus-admin/tree/V4.2.0)
-
-[English document](https://github.com/qdzhaoxiaodao/manage-system/blob/master/README_EN.md)
+基于 Vue3 + Element-plus + axiox + vuex 的后台管理系统
 
 ## 项目截图
 
 ### 登录
 
-![Image text](https://github.com/qdzhaoxiaodao/manage-system/raw/master/screenshots/wms3.png)
+![Image text](https://github.com/qdzhaoxiaodao/vue3-element-plus-admin/blob/main/screenshots/wms3.png)
 
 ### 首页
 
-![Image text](https://github.com/qdzhaoxiaodao/manage-system/raw/master/screenshots/wms1.png)
+![Image text](https://github.com/qdzhaoxiaodao/vue3-element-plus-admin/blob/main/screenshots/wms1.png)
 
 ## 前言
 
